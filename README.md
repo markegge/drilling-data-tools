@@ -1,6 +1,7 @@
 drilling-data-tools
 ===================
-_Conda Environment: wells_
+
+** backup fork ** -- archived
 
 Acquisition and management tools for oil and gas drilling data.
 
